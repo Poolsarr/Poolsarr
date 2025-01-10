@@ -1,4 +1,4 @@
-👋 Hey! My name is **Miłosz** and here's my projects stash (mostly private 🤷).
+👋 Hey! My name is **Miłosz** and welcome to my (mostly private 🤷) project stash.
 
 I'm a multi-passionate creator exploring the universe of code, sound, and style. 🌌
 
