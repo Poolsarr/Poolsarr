@@ -1,9 +1,6 @@
-👋 Hi there! I'm a multi-passionate creator exploring the universe of code, sound, and style. 🌌
+👋 Hey! My name is **Miłosz** and here's my projects stash (mostly private 🤷).
 
-## About Me
-
-Hey,
-My name is **Miłosz** and here's my projects stash (mostly private 🤷)
+I'm a multi-passionate creator exploring the universe of code, sound, and style. 🌌
 
 - 🐍 **Python Scripting:** I love automating tasks and building tools with Python. You'll find a collection of my scripts here, designed to make life a little easier. 
 - 🎶 **Music Production:** I'm passionate about crafting sounds and exploring the art of music. Expect some audio experiments and maybe a tune or two. 🎧
